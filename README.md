@@ -2,4 +2,4 @@
 + cd ./hello
 + go run .
 
-rama r1
+edit readme desde main
